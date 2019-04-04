@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ContractGenerator</string>
+    <string name="action_export_contract">Export contract</string>
+
+    <string name="btn_remove">Remove</string>
+    <string name="btn_edit">Edit</string>
+
+    <string name="title_edit_botton_dialog">Edit property</string>
+    <string name="title_add_botton_dialog">Add new property</string>
+    <string name="title_ok_button_dialog">OK</string>
+    <string name="title_yes_button_dialog">YES</string>
+    <string name="title_no_button_dialog">NO</string>
+    <string name="title_remove_dialog">Remove element</string>
+    <string name="title_error_dialog">Error</string>
+
+    <string name="message_remove_dialog">You are going to delete this element.\nAre you sure?</string>
+
+    <string name="hint_select_metric">Select property</string>
+    <string name="hint_select_app">Select application</string>
+    <string name="text_parameter_value">Parameter value</string>
+    <string name="text_parameter_good">Good</string>
+    <string name="text_parameter_middle">Middle</string>
+    <string name="text_parameter_regular">Regular</string>
+    <string name="text_action">Action</string>
+    <string name="text_action_monitoring">Monitoring</string>
+    <string name="text_alert">Alert</string>
+    <string name="text_alert_informative">Informative</string>
+    <string name="text_alert_confirmatory">Confirtmatory</string>
+    <string name="text_btn_cancel">CANCEL</string>
+    <string name="text_btn_acept">ACEPT</string>
+    <string name="title_search_dialog_property">Select an property</string>
+    <string name="title_search_dialog_app">Select an application</string>
+    <string name="title_loading_dialog">Loading applications</string>
+</resources>

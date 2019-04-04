@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: ir.mtajik.android:advancedPermissionsHandler-1.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/advancedPermissionsHandler-1.0.2.aar/b17b7a4abaadc6fb959c4c5a289b5ef7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/advancedPermissionsHandler-1.0.2.aar/b17b7a4abaadc6fb959c4c5a289b5ef7/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ir.mtajik.android/advancedPermissionsHandler/1.0.2/712d3a3f93cea44e3ded064c25cb54a2c157b0ee/advancedPermissionsHandler-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
